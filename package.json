@@ -1,0 +1,11 @@
+{
+  "name": "cleanqr-root",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix cleanqr",
+    "build": "npm run build --prefix cleanqr",
+    "start": "npm run start --prefix cleanqr",
+    "lint": "npm run lint --prefix cleanqr"
+  }
+}
